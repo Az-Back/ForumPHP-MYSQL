@@ -1,7 +1,4 @@
-<?php require('actions/signupAction.php'); ?>
-<!DOCTYPE html>
-<html lang="en">
-<?php require('actions/users/securityAction.php'); ?>
+<?php require('actions/users/signupAction.php'); ?>
 <!DOCTYPE html>
 <html lang="en">
 <?php include 'includes/head.php'; ?>
